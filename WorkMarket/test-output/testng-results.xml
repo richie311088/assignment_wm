@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103304" started-at="2019-04-15T23:36:21Z" finished-at="2019-04-15T23:38:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103304" started-at="2019-04-15T23:36:21Z" finished-at="2019-04-15T23:38:04Z">
+      <class name="TestCase.SignUpTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="6703" started-at="2019-04-15T23:36:21Z" finished-at="2019-04-15T23:36:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test1" duration-ms="2760" started-at="2019-04-15T23:36:28Z" finished-at="2019-04-15T23:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="682" started-at="2019-04-15T23:36:30Z" finished-at="2019-04-15T23:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="5058" started-at="2019-04-15T23:36:31Z" finished-at="2019-04-15T23:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test10()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test10" duration-ms="765" started-at="2019-04-15T23:36:36Z" finished-at="2019-04-15T23:36:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="639" started-at="2019-04-15T23:36:37Z" finished-at="2019-04-15T23:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="6613" started-at="2019-04-15T23:36:38Z" finished-at="2019-04-15T23:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test11()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test11" duration-ms="3167" started-at="2019-04-15T23:36:44Z" finished-at="2019-04-15T23:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="714" started-at="2019-04-15T23:36:47Z" finished-at="2019-04-15T23:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="5411" started-at="2019-04-15T23:36:48Z" finished-at="2019-04-15T23:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test12()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test12" duration-ms="4334" started-at="2019-04-15T23:36:54Z" finished-at="2019-04-15T23:36:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="735" started-at="2019-04-15T23:36:58Z" finished-at="2019-04-15T23:36:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="5744" started-at="2019-04-15T23:36:59Z" finished-at="2019-04-15T23:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test2" duration-ms="4451" started-at="2019-04-15T23:37:04Z" finished-at="2019-04-15T23:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="651" started-at="2019-04-15T23:37:09Z" finished-at="2019-04-15T23:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="6672" started-at="2019-04-15T23:37:09Z" finished-at="2019-04-15T23:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test3" duration-ms="1183" started-at="2019-04-15T23:37:16Z" finished-at="2019-04-15T23:37:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="669" started-at="2019-04-15T23:37:17Z" finished-at="2019-04-15T23:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="5775" started-at="2019-04-15T23:37:18Z" finished-at="2019-04-15T23:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test4" duration-ms="1412" started-at="2019-04-15T23:37:24Z" finished-at="2019-04-15T23:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="662" started-at="2019-04-15T23:37:25Z" finished-at="2019-04-15T23:37:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="6036" started-at="2019-04-15T23:37:26Z" finished-at="2019-04-15T23:37:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test5" duration-ms="513" started-at="2019-04-15T23:37:32Z" finished-at="2019-04-15T23:37:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="739" started-at="2019-04-15T23:37:32Z" finished-at="2019-04-15T23:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="4530" started-at="2019-04-15T23:37:33Z" finished-at="2019-04-15T23:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test6" duration-ms="617" started-at="2019-04-15T23:37:38Z" finished-at="2019-04-15T23:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="658" started-at="2019-04-15T23:37:38Z" finished-at="2019-04-15T23:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="5356" started-at="2019-04-15T23:37:39Z" finished-at="2019-04-15T23:37:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test7" duration-ms="2374" started-at="2019-04-15T23:37:44Z" finished-at="2019-04-15T23:37:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="630" started-at="2019-04-15T23:37:47Z" finished-at="2019-04-15T23:37:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="5487" started-at="2019-04-15T23:37:47Z" finished-at="2019-04-15T23:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test8()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test8" duration-ms="1857" started-at="2019-04-15T23:37:53Z" finished-at="2019-04-15T23:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="659" started-at="2019-04-15T23:37:55Z" finished-at="2019-04-15T23:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="setUp" is-config="true" duration-ms="7292" started-at="2019-04-15T23:37:55Z" finished-at="2019-04-15T23:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test9()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="test9" duration-ms="743" started-at="2019-04-15T23:38:03Z" finished-at="2019-04-15T23:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.SignUpTest@d2cc05a]" name="tearDown" is-config="true" duration-ms="966" started-at="2019-04-15T23:38:03Z" finished-at="2019-04-15T23:38:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.SignUpTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
