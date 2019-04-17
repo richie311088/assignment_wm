@@ -4,6 +4,7 @@
   <test name="Test">
   <classes>
  <class name="TestCase.SignUpTest" />
+ <class name="TestCase.FindTalent" />
  </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

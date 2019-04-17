@@ -1,5 +1,6 @@
 package TestCase;
 
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import pageObjects.ThankYouPage;
@@ -11,11 +12,12 @@ import org.testng.Assert;
 import pageObjects.SignUp;
 
 public class SignUpTest extends ScriptBase {
-@BeforeTest
+@BeforeMethod
 public void before() {
 driver.navigate().to("https://dev.workmarket.com/register/campaign/10081C503B209A0C8E7F05FDCC1AA98D4C904DEEF5F73265CAE38C744E7EAD3E");
 }
 @Test
+//Test to validate all fields are working fine and user lands on next page
     public void test1() throws InterruptedException{
     	SignUp.clickSetupAsIndividual(driver);
         SignUp.setFirstName(driver,"Hello");

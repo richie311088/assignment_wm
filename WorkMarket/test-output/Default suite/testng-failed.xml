@@ -5,8 +5,19 @@
     <classes>
       <class name="TestCase.SignUpTest">
         <methods>
+          <include name="test9"/>
           <include name="test6"/>
+          <include name="test8"/>
+          <include name="test5"/>
+          <include name="test2"/>
+          <include name="test7"/>
+          <include name="test4"/>
+          <include name="test3"/>
           <include name="setUp"/>
+          <include name="test11"/>
+          <include name="test12"/>
+          <include name="before"/>
+          <include name="test1"/>
           <include name="test10"/>
           <include name="tearDown"/>
         </methods>
